@@ -1,4 +1,4 @@
 # SteavenFetch
 SteavenFetch
 
-![SteavenFetch](Screenshot.png)
+![SteavenFetch](screenshot.png)
