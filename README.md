@@ -10,5 +10,3 @@ An attempt to recreate fastfetch in Rust.
 Launch Command:
 
 `bash <(wget -qO- raw.githubusercontent.com/SteavenLinux/SteavenFetch/main/start.sh)`
-
-![SteavenFetch](screenshot.png)
